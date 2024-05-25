@@ -4,7 +4,7 @@
 **VincentChen-github/VincentChen-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 Shanks Chen is currently an M.S. student of Algorithm and computer Architecture at School of Integrated Circuits, Tsinghua University, following Prof. Leibo Liu. His research interests lie in the fields of hardware framework and compiler of CGRA and AI accelerator. He received a bachelor’s degree in Optoelectronics from Sun Yat-sen University, where he was advised by Prof. Xiang Chen.
+- 🔭 Shanks Chen is currently an M.S. student of Algorithm and Computer Architecture at School of Integrated Circuits, Tsinghua University, following Prof. Leibo Liu. His research interests lie in the fields of hardware framework and compiler of CGRA and AI accelerator. He received a bachelor’s degree in Optoelectronics from Sun Yat-sen University, where he was advised by Prof. Xiang Chen.
 
 
 
