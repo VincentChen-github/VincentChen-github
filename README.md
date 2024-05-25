@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently pursuing my master's degree in Electronic and Information Engineering, School of Integrated Circuits, Tsinghua University.
+- 🔭 I’m currently pursuing my master's degree in Electronic and Information Engineering, specifically, Integrated Circuit Engineering, School of Integrated Circuits, Tsinghua University.
 - 🌱 I’m currently learning computer architecture and very large-scale digital integrated circuits design.
 
 <!--
